@@ -13,7 +13,7 @@
         "Pipfile": true,
         "Pipfile.lock": true,
         "**/__pycache__": true,
-        "env": false,
+        "env": true,
         "**/apps.py": true,
         "**/migrations": true,
         "**/.gitignore": true,

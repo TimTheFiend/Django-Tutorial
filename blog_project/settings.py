@@ -23,7 +23,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-    'accounts,
+    'accounts',
 ]
 
 #endregion INSTALLED_APPS
