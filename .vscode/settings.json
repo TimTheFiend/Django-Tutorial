@@ -13,9 +13,11 @@
         "Pipfile": true,
         "Pipfile.lock": true,
         "**/__pycache__": true,
-        "env": true,
+        "env": false,
         "**/apps.py": true,
-        "**/migrations": true
+        "**/migrations": true,
+        "**/.gitignore": true,
+        "**/.gitattributes": true
     },
     "explorerExclude.backup": null,
     "python.linting.flake8Enabled": true,
