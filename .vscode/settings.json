@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/__init__.py": true,
+        "**/asgi.py": true,
+        "**/wsgi.py": true,
+        "**/*.zip": true,
+        ".vscode": true,
+        "Pipfile": true,
+        "Pipfile.lock": true,
+        "**/__pycache__": true,
+        "env": true,
+        "**/apps.py": true,
+        "**/migrations": true
+    },
+    "explorerExclude.backup": null,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "c:\\Users\\joak\\repos\\django\\env\\Scripts\\python.exe"
+}
